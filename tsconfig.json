@@ -1,0 +1,19 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es5",
+        "declaration": false,
+        "sourceMap": false,
+        "out": "build/fibonacci-trap.js"
+    },
+    "files": [
+        "src/index.ts"
+      , "src/timing.ts"
+      , "src/params.ts"
+      , "src/helpers.ts"
+      , "src/fibonacci-params.ts"
+      , "typings/tsd.d.ts"
+      , "logic-x.d.ts"
+    ]
+}
+
