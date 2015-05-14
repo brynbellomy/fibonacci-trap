@@ -5,8 +5,6 @@
  * Copyright (C) bryn austin bellomy 2015.
  */
 
-///<reference path="timing.ts" />
-///<reference path="fibonacci-params.ts" />
 // import * as timing from './timing'
 // import {FibonacciParams} from './fibonacci-params'
 import timing = require('./timing')
