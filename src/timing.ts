@@ -1,17 +1,20 @@
 
 
 
-export interface ITimingFunctionConstructor {
-    (numRepeats: number, minimumLength: number, maximumLength: number): ITimingFunction;
-}
-
-export interface ITimingFunction {
+interface ITimingFunction {
     (i:number): number;
 }
 
-export function linearDecreaseTiming(numRepeats: number, minimumLength: number, maximumLength: number): ITimingFunction {
+function linearDecreaseTiming (numRepeats: number, minimumLength: number, maximumLength: number): ITimingFunction {
     let scalar = (maximumLength - minimumLength) / numRepeats
-    return (i: number) => {
-        return (scalar * i) + minimumLength
-    }
+
+    function lengthForRepeat(i:number): number { return scalar * i }
+
+    return (i: number) => lengthForRepeat(i) + minimumLength
+}
+
+function goldenRatioTiming (minimumLength: number): ITimingFunction {
+    let phi = 1.6180339887498948482
+
+    return (i: number) => minimumLength * Math.pow(phi, i)
 }

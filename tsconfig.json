@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+        "noLib": true,
         "module": "commonjs",
         "target": "es5",
         "declaration": false,
@@ -8,12 +9,19 @@
     },
     "files": [
         "src/index.ts"
+      , "src/plugin.ts"
       , "src/timing.ts"
+      , "src/meta-note.ts"
+      , "src/concrete-note.ts"
       , "src/params.ts"
+      , "src/queued-event.ts"
+      , "src/range.ts"
+      , "src/logging.ts"
       , "src/helpers.ts"
       , "src/fibonacci-params.ts"
       , "typings/tsd.d.ts"
       , "logic-x.d.ts"
+      , "logic-x-javascript-runtime.d.ts"
     ]
 }
 

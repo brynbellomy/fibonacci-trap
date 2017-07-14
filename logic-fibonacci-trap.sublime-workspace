@@ -1,1 +1,2202 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Plu",
+				"PluginParameters	let"
+			],
+			[
+				"c",
+				"cycleMode	property"
+			],
+			[
+				"cyc",
+				"cycleIndexForBeatstamp	function"
+			],
+			[
+				"cy",
+				"cycleLengthInBeats	property"
+			],
+			[
+				"C",
+				"CycleMode	var"
+			],
+			[
+				"pro",
+				"prototypeNotes	property"
+			],
+			[
+				"Cy",
+				"CycleLengthInBeats	var"
+			],
+			[
+				"Log",
+				"LogicXLogger	class"
+			],
+			[
+				"bl",
+				"blockLength	property"
+			],
+			[
+				"bnl",
+				"blockEndBeat	property"
+			],
+			[
+				"cycl",
+				"cycleLengthInBeats	property"
+			],
+			[
+				"blo",
+				"blockStartBeat	property"
+			],
+			[
+				"IT",
+				"ITimingFunction	interface"
+			],
+			[
+				"ITim",
+				"ITimingFunctionConstructor	interface"
+			],
+			[
+				"cur",
+				"currentNote	property"
+			],
+			[
+				"timing",
+				"timingInfo	parameter"
+			],
+			[
+				"max",
+				"maximumLength"
+			],
+			[
+				"linear",
+				"linearDecreaseTiming"
+			],
+			[
+				"arti",
+				"artist_slug"
+			],
+			[
+				"trans",
+				"transformed_metadata"
+			],
+			[
+				"should_update",
+				"should_update"
+			],
+			[
+				"info",
+				"info_updated"
+			],
+			[
+				"artist",
+				"artist_metadata"
+			],
+			[
+				"fetc",
+				"fetch_images_recursively"
+			],
+			[
+				"cach",
+				"cached_data_is_stale"
+			],
+			[
+				"ArtistMe",
+				"ArtistMetadataOperation"
+			],
+			[
+				"for",
+				"force_refresh"
+			],
+			[
+				"fetch",
+				"fetch_image"
+			],
+			[
+				"similar",
+				"similar_artists"
+			],
+			[
+				"pretty",
+				"pretty_printer"
+			],
+			[
+				"def",
+				"def	Function"
+			],
+			[
+				"vali",
+				"validate_images_recursively"
+			],
+			[
+				"store",
+				"store_artist_info"
+			],
+			[
+				"art",
+				"artist_name"
+			],
+			[
+				"to_s",
+				"to_json_obj"
+			],
+			[
+				"co",
+				"coverage_scripts"
+			],
+			[
+				"o",
+				"OPTIONS"
+			],
+			[
+				"mod",
+				"modifiedHTML"
+			],
+			[
+				"add",
+				"add_file_references"
+			],
+			[
+				"Fil",
+				"File	File.open(\"..\") { |file| .. }"
+			],
+			[
+				"submo",
+				"submoduleTarget"
+			],
+			[
+				"ensu",
+				"ensureFileRef"
+			],
+			[
+				"fileR",
+				"filerefWithPath"
+			],
+			[
+				"ensur",
+				"ensureTarget"
+			],
+			[
+				"sta",
+				"startIndex"
+			],
+			[
+				"Linked",
+				"LinkedList"
+			],
+			[
+				"Link",
+				"LinkedList"
+			],
+			[
+				"swi",
+				"swift-marked-sections"
+			],
+			[
+				"removeV",
+				"removeValueForKey"
+			],
+			[
+				"index",
+				"indexForKey"
+			],
+			[
+				"Ord",
+				"OrderedDictionaryElement"
+			],
+			[
+				"node",
+				"nodeAtIndex"
+			],
+			[
+				"No",
+				"NodeType"
+			],
+			[
+				"List",
+				"ListType"
+			],
+			[
+				"LinkedL",
+				"LinkedListNode"
+			],
+			[
+				"check",
+				"checkIndex"
+			],
+			[
+				"element",
+				"elementsDict"
+			],
+			[
+				"ele",
+				"elementsList"
+			],
+			[
+				"list",
+				"listIndexForKey"
+			],
+			[
+				"elements",
+				"elementsList"
+			],
+			[
+				"elem",
+				"elementsDict"
+			],
+			[
+				"Or",
+				"OrderedDictionaryElement"
+			],
+			[
+				"proto",
+				"protocol-variable-declaration"
+			],
+			[
+				"a-zA",
+				"a-zA-Z0-9_"
+			],
+			[
+				"end",
+				"endCaptures	endCaptures:"
+			],
+			[
+				"begin",
+				"beginCaptures	beginCaptures:"
+			],
+			[
+				"cre",
+				"creepBehaviors"
+			],
+			[
+				"scene",
+				"sceneUpdateObservers"
+			],
+			[
+				"Play",
+				"PlaylistID"
+			],
+			[
+				"manag",
+				"inManagedObjectContext"
+			],
+			[
+				"dispo",
+				"disposable1"
+			],
+			[
+				"currentl",
+				"currentlyPlayingItem"
+			],
+			[
+				"curre",
+				"currentlyPlayingIndex"
+			],
+			[
+				"currenT",
+				"currentItemIndex"
+			],
+			[
+				"dispat",
+				"dispatch_async_main"
+			],
+			[
+				"icon",
+				"iconForItem"
+			],
+			[
+				"badge",
+				"badgeValueForItem"
+			],
+			[
+				"PXSourc",
+				"PXSourceListItem"
+			],
+			[
+				"sourceLi",
+				"sourceListItems"
+			],
+			[
+				"_aud",
+				"_audioPlayerDelegateWrapper"
+			],
+			[
+				"audi",
+				"audioPlayer"
+			],
+			[
+				"with",
+				"withBufferSize"
+			],
+			[
+				"EZA",
+				"EZAudioPlayerDelegateSwift"
+			],
+			[
+				"Audio",
+				"AudioManagerPlaybackTimeObserver"
+			],
+			[
+				"lae",
+				"label_trackDuration"
+			],
+			[
+				"label_",
+				"label_trackTitle"
+			],
+			[
+				"SEPla",
+				"SEPlaylistModel"
+			],
+			[
+				"SEPlay",
+				"SEPlaylistItem"
+			],
+			[
+				"SEPlaylis",
+				"SEPlaylistModel"
+			],
+			[
+				"asset",
+				"assetWithURL"
+			],
+			[
+				"current",
+				"currentItemIndex"
+			],
+			[
+				"willS",
+				"willSet	willSet {...}"
+			],
+			[
+				"didSet",
+				"didSet	didSet {...}"
+			],
+			[
+				"collection",
+				"collection_playlist"
+			],
+			[
+				"nib",
+				"nibNameOrNil"
+			],
+			[
+				"SEAudio",
+				"SEAudioManagerDataSource"
+			],
+			[
+				"string",
+				"stringByReplacingOccurrencesOfString"
+			],
+			[
+				"bryn_",
+				"bryn_prepend_path"
+			],
+			[
+				"rgb",
+				"rgba(r,g,b,a)"
+			],
+			[
+				"border-top",
+				"border-top-right-radius"
+			],
+			[
+				"track",
+				"trackName"
+			],
+			[
+				"col-m",
+				"col-md-8"
+			],
+			[
+				"soundcloud",
+				"soundcloudTrackID"
+			],
+			[
+				"acti",
+				"activeClass"
+			],
+			[
+				"remove",
+				"removeActiveClass"
+			],
+			[
+				"carousel-",
+				"carousel-illumntr-home"
+			],
+			[
+				"tangl",
+				"tangled-with-bear--release-2013"
+			],
+			[
+				"gulf-h",
+				"gulf-hymn--release-2014"
+			],
+			[
+				"Static",
+				"StaticPagesListItem"
+			],
+			[
+				"pho",
+				"phoneStripped"
+			],
+			[
+				"bk_",
+				"bk_resultsOfRegex"
+			],
+			[
+				"data",
+				"databaseID"
+			],
+			[
+				"Vi",
+				"VideoListItem.java	File"
+			],
+			[
+				"stat",
+				"staticPagesDataStore"
+			],
+			[
+				"ListItem",
+				"ListItemCellViewWrapper"
+			],
+			[
+				"getL",
+				"getListViewCellLayoutID"
+			],
+			[
+				"get",
+				"getListViewCellTextResourceID"
+			],
+			[
+				"render",
+				"renderedCategory"
+			],
+			[
+				"categ",
+				"categories"
+			],
+			[
+				"genera",
+				"generateHTMLForItem"
+			],
+			[
+				"load",
+				"loadedItem"
+			],
+			[
+				"Ship",
+				"ShipCategory.java	File"
+			],
+			[
+				"fetchAll",
+				"fetchAllParentsOfItem"
+			],
+			[
+				"search",
+				"searchStringUppercased"
+			],
+			[
+				"initialize",
+				"initializedDataStores"
+			],
+			[
+				"initia",
+				"initializedDataStores"
+			],
+			[
+				"L3L",
+				"L3ListItem.java	File"
+			],
+			[
+				"shipDataS",
+				"shipDataStoreManager"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Typescript (project).sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					""
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (All)"
+				],
+				[
+					"Packages/Vintageous/Vintageous.sublime-build",
+					"Vintageous - Test (This File Only)"
+				],
+				[
+					"Packages/User/Makefile.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Makefile.sublime-build",
+					"Build"
+				],
+				[
+					"Packages/User/Makefile.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/User/Makefile.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/User/Typescript (project).sublime-build",
+					""
+				],
+				[
+					"Packages/User/Xcode CLI Build.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Xcode CLI Build.sublime-build",
+					"Xcode Run"
+				],
+				[
+					"Packages/User/Xcode CLI Build.sublime-build",
+					"Xcode Build Release"
+				],
+				[
+					"Packages/User/Xcode CLI Build.sublime-build",
+					"Xcode Run Release"
+				],
+				[
+					"Packages/User/XCTest.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Typescript (project).sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 368.0,
+		"last_filter": "scope",
+		"selected_items":
+		[
+			[
+				"scope",
+				"Toggle ScopeAlways"
+			],
+			[
+				"js n",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"scop",
+				"Toggle ScopeAlways"
+			],
+			[
+				"schemr",
+				"Schemr: List all schemes"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"built",
+				"Build With: Typescript (project)"
+			],
+			[
+				"buildts",
+				"Build With: Typescript (project)"
+			],
+			[
+				"open res",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"typescript",
+				"TypeScript: Overloads panel"
+			],
+			[
+				"definition",
+				"TypeScript: GoToDefinition"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"markd",
+				"Set Syntax: Markdown (Github Flavored)"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"conv",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"convert",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"col",
+				"Color Picker"
+			],
+			[
+				"ali",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"yaml",
+				"Set Syntax: YAML"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"conver",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"orgmode",
+				"Set Syntax: orgmode"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"synorg",
+				"Set Syntax: orgmode"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"synax: n",
+				"Set Syntax: nginx"
+			],
+			[
+				"config",
+				"Set Syntax: Git Config"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"marked",
+				"Open in Marked"
+			],
+			[
+				"markdo",
+				"Set Syntax: Markdown (Github Flavored)"
+			],
+			[
+				"jsne",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown (Github Flavored)"
+			],
+			[
+				"openev",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"github",
+				"Set Syntax: Markdown (Github Flavored)"
+			],
+			[
+				"openmar",
+				"Open in Marked"
+			],
+			[
+				"open in ",
+				"Open in Marked"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"aaapacakset",
+				"z:AAAPackageDev: New Settings File"
+			],
+			[
+				"openres",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"buildview",
+				"Disable/Enable buildview for this window"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"open resou",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"keymaps",
+				"Keymaps: Find a keymap for..."
+			],
+			[
+				"keym",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"sco",
+				"Toggle ScopeAlways"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"keybin",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"operes",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"newswi",
+				"Set Syntax: New Swift"
+			],
+			[
+				"scopee",
+				"Set Syntax: tmLang Scope Names"
+			],
+			[
+				"yam",
+				"Set Syntax: YAML"
+			],
+			[
+				"new swi",
+				"Set Syntax: New Swift"
+			],
+			[
+				"beauti",
+				"Javascript Beautify"
+			],
+			[
+				"align",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"news",
+				"Set Syntax: New Swift"
+			],
+			[
+				"brow",
+				"Browse Mode..."
+			],
+			[
+				"colorpi",
+				"Color Picker"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"alig",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"swift",
+				"Set Syntax: Swift"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"synjasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"opene",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"update",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"upda",
+				"Evernote: Update Evernote Note"
+			],
+			[
+				"evernote ",
+				"Evernote: Send to Evernote as new note"
+			],
+			[
+				"wor ",
+				"Word Wrap: Toggle"
+			],
+			[
+				"open ever",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"open ev",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"open",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"open ",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"view in",
+				"File: New View into File"
+			],
+			[
+				"open everno",
+				"Evernote: Open Evernote Note"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"bryn ob",
+				"Set Syntax: Bryn Objective-C"
+			],
+			[
+				"objec",
+				"Set Syntax: Objective-C"
+			],
+			[
+				"awk",
+				"Run Awk for thsi tab into new tab"
+			],
+			[
+				"run",
+				"Build: Run"
+			],
+			[
+				"insatll",
+				"Package Control: Install Package"
+			],
+			[
+				"viml",
+				"Set Syntax: VimL"
+			],
+			[
+				"swi",
+				"Set Syntax: Swift"
+			],
+			[
+				"fish",
+				"Set Syntax: Shell Script (fish)"
+			],
+			[
+				"live",
+				"AlignTab: Live Preview Mode"
+			],
+			[
+				"bryn",
+				"Set Syntax: Bryn Swift"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"bryn sw",
+				"Set Syntax: Bryn Swift"
+			],
+			[
+				"z:aaa",
+				"z:AAAPackageDev: Convert (YAML, JSON, PList) to…"
+			],
+			[
+				"theme",
+				"ColorSchemeSelector: Select Color Scheme"
+			],
+			[
+				"objce",
+				"Set Syntax: Bryn Objective-C"
+			],
+			[
+				"vim",
+				"Set Syntax: VimL"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"synbash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"beaut",
+				"Javascript Beautify"
+			],
+			[
+				"javascri",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"ww",
+				"Word Wrap: Toggle"
+			],
+			[
+				"tree",
+				"JsonTree: Show Tree"
+			],
+			[
+				"plist",
+				"Set Syntax: plist"
+			],
+			[
+				"js2",
+				"JS2Coffee: Convert & Make New File"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			],
+			[
+				"js2c",
+				"JS2Coffee: Convert & Make New File"
+			],
+			[
+				"plisttojson",
+				"Plist Json Converter: PLIST to JSON"
+			],
+			[
+				"plistto",
+				"z:AAAPackageDev: Property List to JSON"
+			],
+			[
+				"plisttojso",
+				"Plist Json Converter: PLIST to JSON"
+			],
+			[
+				"plisttojs",
+				"Plist Json Converter: PLIST to JSON"
+			],
+			[
+				"scope al",
+				"Toggle ScopeAlways"
+			],
+			[
+				"github flavor",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"htmlto",
+				"HTML2Jade: Convert selection"
+			],
+			[
+				"dispacka",
+				"Package Control: Disable Package"
+			],
+			[
+				"objc",
+				"Set Syntax: Bryn Objective-C"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"synhtml",
+				"Set Syntax: HTML5"
+			],
+			[
+				"brynjav",
+				"Set Syntax: Bryn Java"
+			],
+			[
+				"inser",
+				"Color Picker: Insert Color"
+			],
+			[
+				"aaajson",
+				"z:AAAPackageDev: JSON to Property List"
+			],
+			[
+				"aaajs",
+				"z:AAAPackageDev: JSON to Property List"
+			],
+			[
+				"wrap au",
+				"Word Wrap: Automatic Column"
+			]
+		],
+		"width": 687.0
+	},
+	"console":
+	{
+		"height": 622.0,
+		"history":
+		[
+			":84",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": true
+	},
+	"expanded_folders":
+	[
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap"
+	],
+	"file_history":
+	[
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/timing.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/build/fibonacci-trap.js",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/plugin.ts",
+		"/Users/bryn/projects/_node.js/mdgen/bin/mdgen",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/meta-note.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/index.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/fibonacci-params.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/helpers.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/range.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/node_modules/typescript/bin/lib.d.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/logic-x-javascript-runtime.d.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/concrete-note.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/params.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/logic-x.d.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/logging.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/tsconfig.json",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/typings/tsd.d.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/logic-fibonacci-trap.sublime-project",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/C++/C++ Single File.sublime-build",
+		"/Users/bryn/projects/_sublime/User/Typescript (project).sublime-build",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/package.json",
+		"/Applications/Logic Pro X.app/Contents/Frameworks/MADSP.framework/Versions/A/Resources/EventTypes.js",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/src/queued-event.ts",
+		"/Users/bryn/.nvm/versions/io.js/v1.6.2/lib/node_modules/typescript/bin/lib.d.ts",
+		"/Users/bryn/projects/_logic-midi-scripts/fibonacci-trap/tsd.json",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/app/views.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/imgsrv/artist_metadata.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/imgsrv/artist_metadata_operation.py",
+		"/Users/bryn/projects/_sublime/Aqueducts/Aqueducts-3.0.YAML-tmTheme",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/User/orgmode.sublime-settings",
+		"/private/tmp/blah.plist",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/bryn/projects/_sublime/Aqueducts/Aqueducts-3.0.tmTheme",
+		"/Users/bryn/Library/Application Support/Sublime Text 3/Packages/orgmode/orgmode.sublime-settings",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/listenonrepeat/settings.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/imgsrv/worker.py",
+		"/tmp/diff",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/app/views-BRYN.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/listenonrepeat/local_settings.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/imgsrv/lastfm.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/build/settings.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/aws_bryn.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/app/static/artist.js",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/app/static/controls.js",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/util.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/processes.json",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/imgsrv/util.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat-trunk/docs/last.fm-api-response.md",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/imgsrv/test.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat-trunk/website/imgsrv/test.py",
+		"/Users/bryn/projects/_clients/listenonrepeat/bin/activate",
+		"/tmp/subl stdin X2ojoK.txt",
+		"/Users/bryn/projects/_node.js/fs-objects/package.json",
+		"/Users/bryn/.bryn/dash/src/ShellJS.yaml",
+		"/Users/bryn/.bryn/dash/src/NodePackageJSON/index.md",
+		"/Users/bryn/src/_node.js/passcards/package.json",
+		"/Users/bryn/.bryn/dash/src/NodePackageJSON.md",
+		"/Users/bryn/.zshrc",
+		"/Users/bryn/projects/_swift/Funky/LICENSE.md",
+		"/Users/bryn/projects/_web/_linode-backup--2015-04-17/etc-nginx/nginx/nginx.conf",
+		"/Users/bryn/projects/_web/_linode-backup--2015-04-17/etc-nginx/nginx/nginxNEW.conf",
+		"/Users/bryn/projects/_dotfiles/dotfiles-vim/.gitmodules",
+		"/Users/bryn/projects/_swift/SwiftBitmask/peru.yaml",
+		"/Users/bryn/projects/_swift/SwiftLogger/SwiftLogger/websocket-server.js",
+		"/Users/bryn/projects/_swift/_swift-build-tool/configure-project.rb",
+		"/Users/bryn/projects/_swift/Funky/Funky.podspec",
+		"/Users/bryn/projects/_swift/Funky/src/Regex.swift",
+		"/Users/bryn/projects/_swift/Regex/src/Regex.swift",
+		"/Users/bryn/projects/_swift/_swift-build-tool/*.r",
+		"/Users/bryn/projects/_swift/_swift-build-tool/b",
+		"/Users/bryn/projects/_swift/_swift-build-tool/build-tools.rb",
+		"/Users/bryn/projects/dbt-notes/index.md",
+		"/Users/bryn/projects/dbt-notes/2015-02-25.md",
+		"/Users/bryn/projects/dbt-notes/2015-02-22.md",
+		"/Users/bryn/projects/dbt-notes/posts/2015-03-02.md",
+		"/Users/bryn/projects/datwantendo/master/terms.md",
+		"/Users/bryn/projects/dbt-notes/style-overrides.css",
+		"/Users/bryn/projects/dbt-notes/2015-02-25--the-game-vs-the-zone.md",
+		"/Users/bryn/projects/dbt-notes/feb.md",
+		"/Users/bryn/projects/_node.js/mdgen/package.json",
+		"/tmp/opts.txt",
+		"/Users/bryn/bin/mdgen",
+		"/Users/bryn/projects/_node.js/ts-reg-test/blah.ts",
+		"/Users/bryn/projects/_node.js/ts-reg-test/index.js",
+		"/Users/bryn/projects/datwantendo/master/video-games.md",
+		"/Users/bryn/projects/datwantendo/master/index.md",
+		"/Users/bryn/projects/datwantendo/master/aikido.md",
+		"/private/tmp/commonplace/config/commonplace.yml",
+		"/Users/bryn/projects/datwantendo/index.md",
+		"/Users/bryn/projects/datwantendo/goals.md",
+		"/Users/bryn/projects/datwantendo/README.md",
+		"/Users/bryn/projects/datwantendo/terms.md",
+		"/Users/bryn/projects/datwantendo/aikido.md",
+		"/Users/bryn/.rvm/gems/ruby-2.2.0/gems/xcodeproj-0.21.2/lib/xcodeproj/project/object/build_configuration.rb",
+		"/Users/bryn/.rvm/gems/ruby-2.2.0/gems/cocoapods-clean-0.0.1/lib/cocoapods_plugin.rb",
+		"/Users/bryn/projects/_swift/Funky/Pods/Pods.xcodeproj/xcuserdata/bryn.xcuserdatad/xcschemes/Pods-FunkyTests-Nimble.xcscheme",
+		"/Users/bryn/projects/_swift/Funky/Pods/Pods.xcodeproj/xcuserdata/bryn.xcuserdatad/xcschemes/Pods-FunkyTests-LlamaKit.xcscheme",
+		"/Users/bryn/projects/_swift/Funky/Pods/Pods.xcodeproj/xcuserdata/bryn.xcuserdatad/xcschemes/Pods-FunkyTests.xcscheme",
+		"/Users/bryn/projects/_swift/Funky/Funky.xcodeproj/project.pbxproj",
+		"/Users/bryn/projects/_swift/Funky/Pods/Nimble/Nimble/Matchers/BeEmpty.swift",
+		"/Users/bryn/.rvm/gems/ruby-2.2.0/gems/cocoapods-0.36.0.beta.2/lib/cocoapods/project.rb",
+		"/Users/bryn/projects/_swift/SwiftBitmask/.xctool-args",
+		"/Users/bryn/projects/_swift/Funky-peru/.xctool-args",
+		"/Users/bryn/projects/_swift/Funky/Pods/Target Support Files/Pods/Pods-environment.h",
+		"/Users/bryn/projects/_swift/Funky/Podfile",
+		"/Users/bryn/projects/_swift/Funky/Pods/Target Support Files/Pods/Pods-resources.sh",
+		"/Users/bryn/projects/_swift/FlatUIColors/README.md",
+		"/Users/bryn/projects/_swift/FlatUIColors/FlatUIColors.swift",
+		"/Users/bryn/projects/_swift/FlatUIColors/FlatUIColors.podspec",
+		"/Users/bryn/projects/_swift/FlatUIColors/SwiftFlatUIColors.podspec",
+		"/Users/bryn/projects/_swift/Regex/Podfile",
+		"/Users/bryn/projects/_swift/Funky/Makefile",
+		"/Users/bryn/projects/_swift/Funky/src/vendor/Regex.swift",
+		"/Users/bryn/projects/_swift/Entish/README.md",
+		"/Users/bryn/projects/_swift/SwiftConfig/Podfile",
+		"/Users/bryn/projects/_swift/SwiftBitmask/SwiftBitmask.podspec",
+		"/Users/bryn/projects/_swift/FlatUIColors/Podfile",
+		"/Users/bryn/projects/_swift/SwiftDataStructures/README.md",
+		"/Users/bryn/projects/_swift/_swift-cocoapod-template/README.md",
+		"/Users/bryn/.rvm/gems/ruby-2.2.0/gems/jazzy-0.1.0/lib/jazzy/sourcekitten.rb",
+		"/Users/bryn/projects/Funky/Funky/Functions.Functional.swift",
+		"/Users/bryn/projects/Funky/Funky/Functions.File.swift",
+		"/Users/bryn/projects/_swift/Funky/README.md",
+		"/tmp/install.sh",
+		"/Users/bryn/projects/_swift/Funky/FunkyTests/RegexTests.swift",
+		"/Users/bryn/projects/_swift/Funky/Funky.sublime-project",
+		"/Users/bryn/projects/_swift/Funky/src/Functions.Functional.swift",
+		"/Users/bryn/projects/_swift/Funky/Pods/Nimble/Nimble/Utils/Functional.swift"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 103.0,
+		"where_history":
+		[
+			"<project>",
+			"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website,*.py",
+			"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/app,*.py",
+			"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/",
+			"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat/website/app",
+			"/Users/bryn/projects/_clients/listenonrepeat/listenonrepeat",
+			"<project>/listenonrepeat/",
+			"<project>",
+			"<project>,*.swift",
+			"<project>,*.h",
+			"<project>,*.swift",
+			"<project>",
+			"<project>,*.xml",
+			"<project>",
+			"<project>,*.java",
+			"<project>,*.xml",
+			"<project>,*.java",
+			"<project>",
+			"<project>,*.xml",
+			"<project>,*.java",
+			"<project>",
+			"",
+			"<project>",
+			"",
+			"/tmp/zing.txt",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"var ",
+			"params",
+			"startBeat",
+			"getStartOfCycleContainingBeat",
+			"\n}",
+			"out of",
+			"startBeat",
+			"b",
+			"note",
+			"Note",
+			"prototypeNotes",
+			"Cyc",
+			"startB",
+			"Linear",
+			"Type",
+			"type",
+			"start",
+			"Params",
+			"Paramaters",
+			"Trace",
+			"log",
+			"Trace",
+			"loggerForID",
+			"Trace",
+			"beatstamps =",
+			"noteEventsForBeatRange",
+			"dequeueNoteEventsForBeatRange",
+			"normalizeB",
+			"TimingFunc",
+			"event",
+			"currentState",
+			"Plugin",
+			"PluginState",
+			"dequeued",
+			") {",
+			"IEvent",
+			"ParameterDec",
+			"Boolean",
+			"\\bEvent\\b",
+			"Event",
+			"NoteOn",
+			"class",
+			"extends Note",
+			"spaceBetweenNotes",
+			"params",
+			"info",
+			"Info",
+			"info",
+			"fetch",
+			"Note.pro",
+			"event",
+			"Event",
+			"event",
+			"Event",
+			"event",
+			"Event",
+			"event",
+			"Event",
+			";",
+			"TimingInfo",
+			"):",
+			"• TimingInfo",
+			"• TimingInfo.",
+			"isRealtime",
+			"channel",
+			"false",
+			"helpers",
+			"\"",
+			":",
+			": number",
+			"params",
+			"let ",
+			"BetweenBeats",
+			"let ",
+			"var",
+			" between beats",
+			"numberOfPitches",
+			"newEvent",
+			"pitches to send",
+			"punctuat",
+			"link",
+			"</string>",
+			"orgmode.",
+			"_",
+			"artist:image",
+			"updated",
+			"updatedj",
+			"updated",
+			"from_json",
+			"YT_DAPI_KEYS",
+			"AIzaSyAGpJmrefYNnGoEYGCYX8IYipPXBv2SWvE",
+			"YT_DAPI_KEYS",
+			"youtube",
+			"_",
+			"logging",
+			"logging\n",
+			"logg",
+			"logging",
+			"=>",
+			"get_artist_data",
+			"get_artist_datakkj",
+			"logging",
+			"history_obj",
+			"settings.py",
+			"should",
+			"r\\.hex",
+			"ArtistMetadataO",
+			"should_",
+			"print",
+			"redis",
+			"self",
+			"metadata.slug()",
+			"metadata",
+			"redis",
+			"r\\.",
+			"logging.error",
+			"PROJECT_ROOT",
+			"%s",
+			"logging.error",
+			"logging",
+			"logging\\.basic",
+			"logging",
+			"artist_add",
+			"name_norm",
+			"Metadata",
+			"MetadataOperat",
+			"store_artist",
+			"logging"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"ArtistMetadataOperation",
+			"store_artist_info",
+			"from_json",
+			"",
+			"String",
+			"\\1/**\\n\\1    \\2\\n\\1 */",
+			"\\1/**\\n\\1    ",
+			"\n\n-",
+			"var",
+			" ",
+			"",
+			" #",
+			"  ",
+			"    ",
+			"#main-header-menu",
+			"carousel-illumntr-home",
+			"    ",
+			"        ",
+			"^        ",
+			"public static IDataStoreManager SharedDataStoreManager()",
+			"background",
+			"\\n-",
+			"com.signalenvelope.ListKit.AutoResizeTextView",
+			"SharedDataStoreManager()",
+			"getListViewRowTextResourceID",
+			"getListViewRowLayoutID",
+			"SearchString",
+			"fetchItemWithID",
+			"fetchParentOfItem",
+			"fetchTopLevelItems",
+			"fetchChildrenOfItemWithID",
+			"fetchNumberOfChildrenForItem",
+			"fetchAllItems",
+			"ShipsListDataStore",
+			"IDataStore",
+			"IDataStoreManager",
+			"CachingDataStoreManager",
+			"DataStoreManager",
+			"shared",
+			"layout_toStartOf=\"@+id/imgSwitchAppSections\"",
+			"txtTitleApp",
+			"raw/icon_search",
+			"@drawable/blue_titlebar",
+			"L3Utils.INTENT_EXTRA__ITEM_TO_LOAD",
+			"fetchItemWithID",
+			"fetchNumberOfChildrenForItem",
+			"fetchAllItems",
+			"this.addItem( shipListItem_\\1 );",
+			"data.put",
+			"activityClassToHandleTappedListItem",
+			"ShipsDB",
+			"shared",
+			"</div>",
+			"<div class=\"title\">",
+			"div class=\"title\"",
+			"&amp;",
+			"</a></div>",
+			"<div class=\"contact-method\"><a ",
+			"",
+			"class=\"item\"",
+			"",
+			"</div>",
+			"<div",
+			"date",
+			"",
+			"&amp;",
+			"",
+			"</div>",
+			"<div> • ",
+			"&amp;",
+			"initializeData(",
+			"L3-SRG",
+			"InMemoryDBHelper",
+			"Copyright (c) 2013 bryn austin bellomy",
+			"FetchShipsAsyncTask",
+			"txtListItemCellText",
+			"com/signalenvelope",
+			"com.signalenvelope.L3_SRG",
+			"com.signalenvelope.L3-SRG",
+			"[\"super+i\",",
+			"sg_message_inbox",
+			"remoterepository",
+			"bryn.bellomy@gmail.com",
+			"bryn.bellomy@gmail.com-remote",
+			"bryn.bellomy@gmail.com-local",
+			"'",
+			"Earl",
+			"\\(prefix, files",
+			"log_success \"\\1\"",
+			"log_task \"\\1\"",
+			"queueCb",
+			"errCb",
+			"renumber",
+			"pngs",
+			"pngs.",
+			"module.exports.",
+			"exports.renumber",
+			"exports.stepFilter",
+			"exports.copyAllFilesInDirTo",
+			"exports.removeTempDir",
+			"exports.makeDirs",
+			"exports.makeMatte",
+			"exports.filesWithPrefix",
+			"inputDir",
+			"inputDirectory",
+			"[[:space:]]*",
+			"#{@\\1}",
+			"#{\\1}",
+			"#{@acceptable_chars_in_regular_statements}",
+			"#{@identifier}",
+			"#{@type}",
+			"#{@l_bracket}",
+			"#{@r_paren}",
+			"#{@r_bracket}",
+			"#{@r_paren}",
+			"#{@l_paren}",
+			"#{@sp}",
+			"#{sp}",
+			",\\n",
+			"bool",
+			"bool\nbool",
+			"NSNotificationCenter.defaultCenter",
+			"\"",
+			"blue.bold",
+			"mkCopyMsg",
+			"stages",
+			"otis",
+			"Otis"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 610.0
+	},
+	"pinned_build_system": "",
+	"project": "logic-fibonacci-trap.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"fibtr",
+				"build/fibonacci-trap.js"
+			],
+			[
+				"pl.ts",
+				"src/plugin.ts"
+			],
+			[
+				"fib",
+				"build/fibonacci-trap.js"
+			],
+			[
+				"f",
+				"build/fibonacci-trap.js"
+			],
+			[
+				"in",
+				"src/index.ts"
+			],
+			[
+				"fibp",
+				"src/fibonacci-params.ts"
+			],
+			[
+				"logic",
+				"logic-x-javascript-runtime.d.ts"
+			],
+			[
+				"mee",
+				"src/meta-note.ts"
+			],
+			[
+				"fi",
+				"build/fibonacci-trap.js"
+			],
+			[
+				"help",
+				"src/helpers.ts"
+			],
+			[
+				"conc",
+				"src/concrete-note.ts"
+			],
+			[
+				"fibo",
+				"src/fibonacci-params.ts"
+			],
+			[
+				"logi",
+				"logic-x-javascript-runtime.d.ts"
+			],
+			[
+				"logic-x",
+				"logic-x.d.ts"
+			],
+			[
+				"param",
+				"src/params.ts"
+			],
+			[
+				"tsd.d.ts",
+				"typings/tsd.d.ts"
+			],
+			[
+				"tscon",
+				"tsconfig.json"
+			],
+			[
+				"subli",
+				"logic-fibonacci-trap.sublime-project"
+			],
+			[
+				"meta",
+				"src/meta-note.ts"
+			],
+			[
+				"timin",
+				"src/timing.ts"
+			],
+			[
+				"fic",
+				"build/fibonacci-trap.js"
+			],
+			[
+				"metan",
+				"src/meta-note.ts"
+			],
+			[
+				"helpers",
+				"src/helpers.ts"
+			],
+			[
+				"ogic",
+				"logic-x.d.ts"
+			],
+			[
+				"tsconfig",
+				"tsconfig.json"
+			],
+			[
+				"log",
+				"logic-x.d.ts"
+			],
+			[
+				"fibpar",
+				"src/fibonacci-params.ts"
+			],
+			[
+				"fibon",
+				"build/fibonacci-trap.js"
+			],
+			[
+				"fibop",
+				"src/fibonacci-params.ts"
+			],
+			[
+				"tsd.",
+				"typings/tsd.d.ts"
+			],
+			[
+				"tsconf",
+				"tsconfig.json"
+			],
+			[
+				"artmetapy",
+				"listenonrepeat/website/imgsrv/artist_metadata_operation.py"
+			],
+			[
+				"artist_metadata",
+				"listenonrepeat/website/imgsrv/artist_metadata.py"
+			],
+			[
+				"lastfm",
+				"listenonrepeat/website/imgsrv/lastfm.py"
+			],
+			[
+				"aws",
+				"aws_bryn.py"
+			],
+			[
+				"settings.py",
+				"listenonrepeat/build/settings.py"
+			],
+			[
+				"artist_metadata.py",
+				"listenonrepeat/website/imgsrv/artist_metadata.py"
+			],
+			[
+				"armetadata.py",
+				"listenonrepeat/website/imgsrv/artist_metadata_operation.py"
+			],
+			[
+				"artist.js",
+				"listenonrepeat/website/app/static/artist.js"
+			],
+			[
+				"controls.js",
+				"listenonrepeat/website/app/static/controls.js"
+			],
+			[
+				"lastf",
+				"listenonrepeat/website/imgsrv/lastfm.py"
+			],
+			[
+				"util",
+				"listenonrepeat/website/util.py"
+			],
+			[
+				"local_set",
+				"listenonrepeat/website/listenonrepeat/local_settings.py"
+			],
+			[
+				"util.",
+				"listenonrepeat/website/util.py"
+			],
+			[
+				"worker.py",
+				"listenonrepeat/website/imgsrv/worker.py"
+			],
+			[
+				"pro",
+				"processes.json"
+			],
+			[
+				"process",
+				"processes.json"
+			],
+			[
+				"artist",
+				"listenonrepeat/website/imgsrv/artist_metadata.py"
+			],
+			[
+				"test.py",
+				"listenonrepeat/website/imgsrv/test.py"
+			],
+			[
+				"docs/",
+				"listenonrepeat-trunk/docs/last.fm-api-response.md"
+			],
+			[
+				"styl",
+				"~/projects/dbt-notes/style-overrides.css"
+			],
+			[
+				"peru",
+				"Funky/peru.yaml"
+			],
+			[
+				"regex",
+				"src/vendor/Regex.swift"
+			],
+			[
+				"functional",
+				"Funky/Pods/Nimble/Nimble/Utils/Functional.swift"
+			],
+			[
+				"funfun",
+				"Funky/src/Functions.Functional.swift"
+			],
+			[
+				"podspec",
+				"Funky/Funky.podspec"
+			],
+			[
+				"podfile",
+				"Funky/Podfile"
+			],
+			[
+				"regex.s",
+				"Funky/src/vendor/Regex.swift"
+			],
+			[
+				"funcstr",
+				"Funky/src/Functions.Strings.swift"
+			],
+			[
+				"func",
+				"Funky/src/Functions.Functional.swift"
+			],
+			[
+				"funcs",
+				"Source/Functions.Functional.swift"
+			],
+			[
+				"coltysp",
+				"Protocol conformance tests/CollectionTypeSpec.swift"
+			],
+			[
+				"typesp",
+				"Protocol conformance tests/ListTypeSpec.swift"
+			],
+			[
+				"ordictest",
+				"SwiftDataStructuresTests/OrderedDictionaryTests.swift"
+			],
+			[
+				"ordict",
+				"Classes/OrderedDictionary.swift"
+			],
+			[
+				"linlistes",
+				"SwiftDataStructuresTests/LinkedListTests.swift"
+			],
+			[
+				"order",
+				"Classes/OrderedDictionary.swift"
+			],
+			[
+				"linked",
+				"SwiftDataStructuresTests/LinkedListTests.swift"
+			],
+			[
+				"set.",
+				"Classes/Set.swift"
+			],
+			[
+				"dictest",
+				"SwiftDataStructuresTests/OrderedDictionaryTests.swift"
+			],
+			[
+				"tests",
+				"SwiftDataStructuresTests/QueueTests.swift"
+			],
+			[
+				"colsp",
+				"Protocol conformance tests/CollectionTypeSpec.swift"
+			],
+			[
+				"listspec",
+				"Protocol conformance tests/ListTypeSpec.swift"
+			],
+			[
+				"colt",
+				"Protocol conformance tests/CollectionTypeSpec.swift"
+			],
+			[
+				"listtype",
+				"Protocols/ListType.swift"
+			],
+			[
+				"linke",
+				"Classes/LinkedList.swift"
+			],
+			[
+				"spec.sw",
+				"Protocol conformance tests/ListTypeSpec.swift"
+			],
+			[
+				"",
+				"build/Intermediates/Pods.build/Debug/Pods-SwiftDataStructuresTests-Quick.build/unextended-module.modulemap"
+			],
+			[
+				"dictests",
+				"SwiftDataStructuresTests/OrderedDictionaryTests.swift"
+			],
+			[
+				"listtests",
+				"SwiftDataStructuresTests/LinkedListTests.swift"
+			],
+			[
+				"licen",
+				"LICENSE.md"
+			],
+			[
+				"sidebar",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/SidebarItem.swift"
+			],
+			[
+				"playviewcon",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewController.swift"
+			],
+			[
+				"playlist.m",
+				"illumntr-music-player/illumntr-music-player/Classes/NSManagedObject subclasses/human/Playlist.m"
+			],
+			[
+				"collec",
+				"illumntr-music-player/illumntr-music-player/Classes/Extensions/Collections+BrynKit.swift"
+			],
+			[
+				"playlistviewcon",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewController.swift"
+			],
+			[
+				"bryn.",
+				"BrynKit/Main/Bryn.m"
+			],
+			[
+				"playviemo",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewModel.swift"
+			],
+			[
+				"trackom",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/TrackModel.swift"
+			],
+			[
+				"+pxswi",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewController+PXSourceListDelegate.swift"
+			],
+			[
+				"playcolcellswi",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistCollectionViewCell.swift"
+			],
+			[
+				"playm",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistModel.swift"
+			],
+			[
+				"playviewmo",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewModel.swift"
+			],
+			[
+				"collec.sw",
+				"illumntr-music-player/illumntr-music-player/Classes/Extensions/Collections+BrynKit.swift"
+			],
+			[
+				"cell.swif",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistCollectionViewCell.swift"
+			],
+			[
+				"playlistmodel",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistModel.swift"
+			],
+			[
+				"playlistviewmodel",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewModel.swift"
+			],
+			[
+				"+pxsou",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/PlaylistViewController+PXSourceListDelegate.swift"
+			],
+			[
+				"pxsourlistdel",
+				"illumntr-music-player/Pods/BuildHeaders/PXSourceList/PXSourceListDelegate.h"
+			],
+			[
+				"audiom",
+				"illumntr-music-player/illumntr-music-player/Classes/Audio/AudioManager.swift"
+			],
+			[
+				"masterr",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/SEMasterViewController.swift"
+			],
+			[
+				"appconfig",
+				"illumntr-music-player/illumntr-music-player/Classes/Common/AppConfiguration.swift"
+			],
+			[
+				"appdel.sw",
+				"illumntr-music-player/illumntr-music-player/Classes/Common/AppDelegate.swift"
+			],
+			[
+				"common",
+				"illumntr-music-player/illumntr-music-player/Classes/Common/Common.swift"
+			],
+			[
+				"trackmodel",
+				"illumntr-music-player/illumntr-music-player/Classes/Player MVVM/TrackModel.swift"
+			],
+			[
+				"modelbase",
+				"illumntr-music-player/illumntr-music-player/Classes/Common/ModelBase.swift"
+			],
+			[
+				"collectio",
+				"illumntr-music-player/illumntr-music-player/Classes/Collections+BrynKit.swift"
+			],
+			[
+				"bridging",
+				"illumntr-music-player/illumntr-music-player/illumntr-music-player-Bridging-Header.h"
+			],
+			[
+				"pxsourcelist",
+				"illumntr-music-player/Pods/BuildHeaders/PXSourceList/PXSourceList.h"
+			],
+			[
+				"semaster+px",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController+PXSourceListDelegate.swift"
+			],
+			[
+				"semastr",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController.swift"
+			],
+			[
+				"appdele",
+				"illumntr-music-player/illumntr-music-player/Classes/AppDelegate.swift"
+			],
+			[
+				"audiopla",
+				"illumntr-music-player/illumntr-music-player/Classes/AudioPlayerDelegateWrapper.m"
+			],
+			[
+				"brynkitlog",
+				"BrynKit/Main/BrynKitLogging.h"
+			],
+			[
+				"coll",
+				"illumntr-music-player/illumntr-music-player/Classes/Collections+BrynKit.swift"
+			],
+			[
+				"ezaudioplayer",
+				"illumntr-music-player/Pods/BuildHeaders/EZAudio/EZAudioPlayer.h"
+			],
+			[
+				"seaudio",
+				"illumntr-music-player/illumntr-music-player/Classes/SEAudioManager.m"
+			],
+			[
+				"track.sw",
+				"illumntr-music-player/illumntr-music-player/Classes/Models/human/Track.swift"
+			],
+			[
+				"track",
+				"illumntr-music-player/illumntr-music-player/Classes/Track.swift"
+			],
+			[
+				"signal",
+				"illumntr-music-player/illumntr-music-player/Classes/Signal+BrynKit.swift"
+			],
+			[
+				"seplayliscol",
+				"illumntr-music-player/illumntr-music-player/Classes/SEPlaylistCollectionViewCell.swift"
+			],
+			[
+				"observable",
+				"illumntr-music-player/illumntr-music-player/Classes/SEObservableModel.swift"
+			],
+			[
+				"se.swift",
+				"illumntr-music-player/illumntr-music-player/SEPlaylistItem.swift"
+			],
+			[
+				"collection",
+				"illumntr-music-player/illumntr-music-player/Classes/Collections+BrynKit.swift"
+			],
+			[
+				"seplaylistmodel",
+				"illumntr-music-player/illumntr-music-player/Classes/SEPlaylistModel.m"
+			],
+			[
+				"masterview+",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController+JNWCollectionView.swift"
+			],
+			[
+				"semas.m",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController.m"
+			],
+			[
+				"semas.swi",
+				"illumntr-music-player/illumntr-music-player/Classes/SEMasterViewController.swift"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/bryn/projects/_android/recipes/recipes.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 368.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				".itBehavesLike"
+			]
+		],
+		"width": 1056.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "gold",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_last_char_search_command": "vi_f",
+		"_vintageous_last_character_search": "j",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+			"_cmdline_cd": "/Applications/Sublime Text 3.app/Contents/MacOS"
+		}
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 322.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
